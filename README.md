@@ -10,8 +10,9 @@ This is a collection of recent, state-of-the-art drug repurposing papers with Gi
 | 22/05/2019 | deepDR: a network-based deep learning approach to in silico drug repositioning | Bioinformatics (**IF:6.931**) | **Xiangxiang Zeng** <br>Department of Computer Science, Xiamen University, Xiamen 361005, China | [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6954645/pdf/btz418.pdf) | [Link](https://github.com/ChengF-Lab/deepDR) |
 
 
-## PreClinical approach
+## Clinical approach
 | published_date | paper_name | journal| author | paper | code |
 | --- | --- | --- | --- | --- | --- |
 | 1/20/2023 | High-Throughput Clinical Trial Emulation with Real World Data and Machine Learning: A Case Study of Drug Repurposing for Alzheimer’s Disease | MedRxiv | **Chengxi Zang** <br>Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, USA | [Link](https://www.medrxiv.org/content/10.1101/2022.01.31.22270132v3.full.pdf) | [Link]( https://github.com/calvin-zcx/RWD4Drug) |
+| 1/20/2023 | A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data | nature machine intelligence (**IF:25.898**) | **Ruoqi Liu** <br>The Ohio State University | [Link](https://www.nature.com/articles/s42256-020-00276-w.pdf) | [Link](https://github.com/ruoqi-liu/DeepIPW) |
 
